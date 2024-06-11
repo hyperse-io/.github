@@ -1,6 +1,6 @@
 <!-- ![hyperse_github_banner](https://github.com/hyperse-io/.github/assets/2833251/030c5e86-3fd8-4240-b628-f5c7d57cbd28) -->
 
-🌿💚 E-commerce suite partner , offers fast, efficient, and reliable service built with [TypeScript](http://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Node.js](https://nodejs.org)
+Full stack development suites, front end, nodejs, typescript, architecture, built with [TypeScript](http://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Node.js](https://nodejs.org)
 
 <!-- ## Useful links
 
