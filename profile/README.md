@@ -18,6 +18,9 @@ In addition to our open source toolkits of the hyperse platform, the Hyperse Ent
 ## Technologies
 ![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/cb99369b-5ae2-459c-aa98-5849fc73e98d)
 
+## Other tools
+![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/fba254cd-5b54-48a5-a3fb-84550e9b9794)
+ 
 
  ## Useful links
 
