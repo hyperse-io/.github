@@ -6,4 +6,4 @@ Hyperse is an open source full stack development suites, front end,  architectur
 
 - [hyperse.net](https://www.hyperse.net)
 - [Getting started docs](https://www.hyperse.net/faq)
-- [Hyperse Discord community](https://discord.com/invite/dEfXRvfD) 
+- [Hyperse Discord community](https://discord.com/invite/tj3ahjXXzM)
