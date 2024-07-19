@@ -5,13 +5,11 @@ Hyperse is an open source full stack development suites, front end,  architectur
 
 ## Welcome to Hyperse
 
-
 Build better headless graphql e-commerce platform faster. Provide a list of open source full stack development kit toolchains, solutions, leading popular framework best practices, accelerate nodejs, typescript based development efficiency, to ensure good engineering quality
 
-## What is the Hyperse Enterprise Edition?
+## What is the Hyperse Enterprise Expert service? 
 
-In addition to our open source toolkits of the hyperse platform, the Hyperse Enterprise Edition offers you an optimal solution for your e-commerce challenges - including our ecommerce customization and scalability, specialized enterprise features, backend, frontend architecture design, support and service. The right solution for enterprises that want to take their e-commerce game to the next level. If you're interested, please reach out to us.
-
+In addition to our open source toolkits of the hyperse platform, the Hyperse Enterprise Expert service offers you an optimal solution for your e-commerce challenges - including our ecommerce customization and scalability, plugin , specialized enterprise features, backend, frontend architecture design. The right solution for enterprises that want to take their e-commerce game to the next level. If you're interested, please reach out to us.
 
 
  ## Useful links
