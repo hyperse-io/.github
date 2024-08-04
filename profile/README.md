@@ -14,14 +14,13 @@ Build better headless graphql e-commerce platform faster. Provide a list of open
 In addition to our open source toolkits of the hyperse platform, the Hyperse Enterprise Expert service offers you an optimal solution for your e-commerce challenges - including our ecommerce customization and scalability, plugin , specialized enterprise features, backend, frontend architecture design. The right solution for enterprises that want to take their e-commerce game to the next level. If you're interested, please reach out to us.
 
 ## Frameworks
-![hyperse FRAMEWORKS](https://github.com/user-attachments/assets/1060c859-f978-465b-b52c-3143c82f4fc0) 
+![hyperse FRAMEWORKS](https://github.com/user-attachments/assets/9561248a-b31d-443c-9cd7-b2e9a8ffd5d7)
 
 ## Technologies
-![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/cb99369b-5ae2-459c-aa98-5849fc73e98d)
+![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/d3cba6e1-43c3-4c1a-b523-afe9891cd3fe)
 
 ## Other tools
-![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/fba254cd-5b54-48a5-a3fb-84550e9b9794)
- 
+![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/a4dddd32-a7dd-467f-a278-1f89d8ec3fb3)
 
  ## Useful links
 
