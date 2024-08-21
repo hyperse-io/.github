@@ -24,6 +24,10 @@ In addition to our open source toolkits of the hyperse platform, the Hyperse Ent
 
  ## Useful links
 
-- [hyperse.net](https://www.hyperse.net)
+- [Hyperse official website](https://www.hyperse.net)
 - [Getting started docs](https://www.hyperse.net/faq)
-- [Hyperse Discord community](https://discord.com/invite/tj3ahjXXzM)
+- [Hyperse discord community](https://www.hyperse.net/community)
+
+## License
+
+See [LICENSE.md](../LICENSE.md).
