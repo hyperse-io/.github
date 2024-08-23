@@ -1,5 +1,5 @@
 
-![hyperse_github_banner](https://github.com/user-attachments/assets/0ff1e739-869f-4fd1-afdb-1d0c6a15b175) 
+<!-- ![hyperse_github_banner](https://github.com/user-attachments/assets/0ff1e739-869f-4fd1-afdb-1d0c6a15b175)  -->
 
 
 Hyperse is an open source full stack development suites, front end,  architecture, tech solutions, built with [TypeScript](http://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Node.js](https://nodejs.org)
@@ -22,11 +22,11 @@ In addition to our open source toolkits of the hyperse platform, the Hyperse Ent
 ## Other tools
 ![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/a4dddd32-a7dd-467f-a278-1f89d8ec3fb3)
 
- ## Useful links
+ <!-- ## Useful links -->
 
-- [Hyperse official website](https://www.hyperse.net)
-- [Getting started docs](https://www.hyperse.net/faq)
-- [Hyperse discord community](https://www.hyperse.net/community)
+<!-- - [Hyperse official website](https://www.hyperse.net) -->
+<!-- - [Getting started docs](https://www.hyperse.net/faq) -->
+<!-- - [Hyperse discord community](https://www.hyperse.net/community) -->
 
 ## License
 
