@@ -1,30 +1,53 @@
-# Contribution Guidelines
+# Contributing to Hyperse
 
-Hi! Thank you for taking the time to contribute to Hyperse!
+Thank you for your interest in contributing to Hyperse! This document provides guidelines and instructions to help you contribute effectively.
 
-In order to make the best use of both your time and that of the Hyperse maintainers, please follow the guidelines in this document.
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Branch Strategy](#branch-strategy)
+- [Making Contributions](#making-contributions)
+- [Commit Guidelines](#commit-guidelines)
+- [Development Setup](#development-setup)
+- [Legal Requirements](#legal-requirements)
 
-## Branches
+## Getting Started
 
-There are 3 important branches to know about:
+Before you begin:
+1. Create an issue to discuss your proposed changes
+2. Ensure your contribution aligns with Hyperse's goals
+3. Review these guidelines thoroughly
 
-- `master` - the default branch
-- `minor` - a branch for commits which introduce new features which would go in the next [SemVer minor](https://semver.org/) release.
-- `major` - a branch for commits which introduce breaking changes which would go in the next [SemVer major](https://semver.org/) release.
+## Branch Strategy
 
-Bug fixes should go direct in the `master` branch, from which new patch releases will be made regularly. Periodically the master branch will be merged into the `minor` and `major` branches.
+We maintain three main branches:
 
-## Bug fixes
+| Branch | Purpose | When to Use |
+|--------|---------|-------------|
+| `master` | Production-ready code | Bug fixes and minor improvements |
+| `minor` | New features | Non-breaking feature additions |
+| `major` | Breaking changes | Backwards-incompatible changes |
 
-If you would like to contribute a bugfix, please first create an issue detailing the bug, and indicate that you intend to fix it. When creating commits, please follow the commit message format below.
+### Branch Selection Guide
+- **Bug fixes**: Submit to `master`
+- **New features**: Submit to `minor`
+- **Breaking changes**: Submit to `major`
 
-## New features
+## Making Contributions
 
-Again, please create a feature request detailing the functionality you intend to add, and state that you would like to implement it. When creating commits, please follow the commit message format below. New feature pull requests should be made against the `minor` branch.
+### Bug Fixes
+1. Create an issue describing the bug
+2. Indicate your intention to fix it
+3. Submit your fix to the `master` branch
+4. Follow the commit message format below
 
-When adding new public APIs to support your new feature, add a `@since 1.2.0` tag (where "1.2.0" corresponds to what will be the next minor version) to the doc block. This will let readers of the documentation know the version in which the API was introduced. See the [docs readme](./docs/README.md) for more details on the valid docs tags.
+### New Features
+1. Create a feature request issue
+2. State your intention to implement
+3. Submit to the `minor` branch
+4. Document new APIs with `@since` tags
 
-```TypeScript
+Example of API documentation:
+```typescript
 /**
  * @description
  * Sets the value of the new API thing.
@@ -34,69 +57,45 @@ When adding new public APIs to support your new feature, add a `@since 1.2.0` ta
 myNewApi: number;
 ```
 
-## Commit message format
+## Commit Guidelines
 
-This repo uses [Conventional Commits](https://www.conventionalcommits.org).
+We follow the [Conventional Commits](https://www.conventionalcommits.org) specification.
 
-```
-type(scope): Message in present tense
-```
 
-`type` may be one of:
-- **feat** (A new feature)
-- **fix** (A bug fix)
-- **docs** (Documentation only changes)
-- **style** (Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc))
-- **refactor** (A code change that neither fixes a bug nor adds a feature)
-- **perf** (A code change that improves performance)
-- **test** (Adding missing tests or correcting existing tests)
-- **chore** (Other changes that don't modify src or test file)
+### Commit Types
+- `feat`: New feature
+- `fix`: Bug fix
+- `docs`: Documentation changes
+- `style`: Code style changes
+- `refactor`: Code refactoring
+- `perf`: Performance improvements
+- `test`: Test-related changes
+- `chore`: Maintenance tasks
 
-`scope` indicates the package affected by the commit:
+### Scope
+- Use package names (e.g., `core`, `common`, `website`)
+- For multiple packages: `fix(core,common): Fix the thing`
+- Omit scope for root-level changes
 
-- website
-- core
-- common
-- etc.
+### Breaking Changes
+Include a `BREAKING CHANGE` section in your commit message:
 
-If a commit affects more than one package, separate them with a comma:
-
-```shell
-fix(core,common): Fix the thing
-```
-
-```shell
-You can use `yarn g:cz` to interactively prompt you on how to commit.
-```
-
-If a commit applies to no particular package (e.g. a tooling change in the root package.json), the scope can be omitted.
-
-#### Breaking Changes
-
-If your contribution includes any breaking changes (including any backwards-incompatible changes; backwards-incompatible changes to current behavior), please include a `BREAKING CHANGE` section in your commit message as per the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/#commit-message-with-both-and-breaking-change-footer).
-
-Please also make your pull request against the `major` branch rather than `master` in the case of breaking changes.
-
-Example:
-
-```shell
+```text
 feat(core): Add new field to Customer
-
 Relates to #123. This commit adds the "foo" field to the Custom entity.
-
-BREAKING CHANGE: A DB migration will be required in order to add the new "foo" field to the customer table.
+BREAKING CHANGE: A DB migration will be required to add the new "foo" field to the customer table.
 ```
 
-#### Linting
+> 💡 **Tip**: Use `yarn g:cz` for interactive commit message creation
 
-Commit messages are linted on commit, so you'll know if your message is not quite right.
+## Development Setup
 
-## Setting up the dev environment
+Follow the [Development guide](./README.md#development) in the README for local setup instructions.
 
-After cloning the Hyperse repo, please follow the [Development guide](./README.md#development) in the README for instructions on how to get up and running locally.
+## Legal Requirements
 
-## Contributor License Agreement
+All contributors must agree to the [Contributor License Agreement](./license/CLA.md) before their contributions can be merged. This is handled automatically via a bot when you open a pull request.
 
-All contributors are required to agree to the [Contributor License Agreement](./license/CLA.md) before their contributions can be merged.
+---
 
-This is done via an automation bot which will prompt you to sign the CLA when you open a pull request.
+Thank you for contributing to Hyperse! Your efforts help make this project better for everyone. 🌿💚
