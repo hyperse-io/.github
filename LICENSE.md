@@ -9,6 +9,7 @@ The default Hyperse license, without a valid Hyperse Commercial License agreemen
 
 ## GNU General Public License version 3 (GPLv3)
 
+
 If you decide to choose the GPLv3 license, you must comply with the following terms:
 
 This program is free software: you can redistribute it and/or modify
@@ -28,7 +29,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Alternatively, commercial and supported versions of the program - also known as
 Commercial Distributions - must be used in accordance with the terms and conditions
-contained in a separate written agreement between you and Hyperse GmbH.
+contained in a separate written agreement between you and (Hyperse Co., Ltd)
 For more information about the Hyperse Commercial License (HCL) please contact hi@hyperse.net.
 
 Please see also:
