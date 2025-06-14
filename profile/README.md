@@ -22,13 +22,37 @@ Beyond our open-source platform toolkits, the Hyperse Enterprise Expert Service 
 This is the right solution for enterprises looking to elevate their e-commerce capabilities to the next level. If you're interested, please reach out to us.
 
 ## Frameworks
-![hyperse FRAMEWORKS](https://github.com/user-attachments/assets/9561248a-b31d-443c-9cd7-b2e9a8ffd5d7)
+
+⚡️ Vue.js - Progressive JavaScript framework for building user interfaces
+🔵 React.js - Component-based library for interactive UIs
+🛍️ Vendure - Headless commerce framework built on Node.js
+🔴 Angular - Platform for building web applications
+🐜 Ant Design - Enterprise-level UI design system
+🌊 Tailwind CSS - Utility-first CSS framework
+🎨 Material UI - React components that implement Google's Material Design
+🚂 Express.js - Fast, unopinionated web framework for Node.js
+🗄️ TypeORM - ORM for TypeScript and JavaScript
+💾 Prisma - Next-generation Node.js and TypeScript ORM
+▲ Next.js - React framework for production-grade applications
+🤖 Android - Mobile app development platform
+📱 iOS - Apple's mobile operating system development
+🌉 JSBridge - Native and JavaScript communication bridge
+
 
 ## Technologies
-![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/d3cba6e1-43c3-4c1a-b523-afe9891cd3fe)
+🐙 Git - Distributed version control system
+📊 GitLab - DevOps lifecycle platform
+📦 Webpack - Static module bundler
+⚡️ Rspack - Fast Rust-based web bundler
+⚡ Vite - Next generation frontend tooling
+💻 VSCode - Code editing redefined
+🖱️ Cursor - AI-first code editor
+🍎 macOS - Apple's desktop operating system
+🪟 Windows - Microsoft's operating system
+✅ Vitest - Next generation testing framework
+🎭 Playwright - Reliable end-to-end testing
+🦁 NestJS - Progressive Node.js framework
 
-## Other Tools
-![hyperse TECHNOLOGIES](https://github.com/user-attachments/assets/a4dddd32-a7dd-467f-a278-1f89d8ec3fb3)
 
 <!-- ## Useful links -->
 
