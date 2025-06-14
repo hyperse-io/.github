@@ -23,35 +23,36 @@ This is the right solution for enterprises looking to elevate their e-commerce c
 
 ## Frameworks
 
-⚡️ Vue.js - Progressive JavaScript framework for building user interfaces
-🔵 React.js - Component-based library for interactive UIs
-🛍️ Vendure - Headless commerce framework built on Node.js
-🔴 Angular - Platform for building web applications
-🐜 Ant Design - Enterprise-level UI design system
-🌊 Tailwind CSS - Utility-first CSS framework
-🎨 Material UI - React components that implement Google's Material Design
-🚂 Express.js - Fast, unopinionated web framework for Node.js
-🗄️ TypeORM - ORM for TypeScript and JavaScript
-💾 Prisma - Next-generation Node.js and TypeScript ORM
-▲ Next.js - React framework for production-grade applications
-🤖 Android - Mobile app development platform
-📱 iOS - Apple's mobile operating system development
-🌉 JSBridge - Native and JavaScript communication bridge
+- ⚡️ Vue.js - Progressive JavaScript framework for building user interfaces
+- 🔵 React.js - Component-based library for interactive UIs
+- 🛍️ Vendure - Headless commerce framework built on Node.js
+- 🔴 Angular - Platform for building web applications
+- 🐜 Ant Design - Enterprise-level UI design system
+- 🌊 Tailwind CSS - Utility-first CSS framework
+- 🎨 Material UI - React components that implement Google's Material - Design
+- 🚂 Express.js - Fast, unopinionated web framework for Node.js
+- 🗄️ TypeORM - ORM for TypeScript and JavaScript
+- 💾 Prisma - Next-generation Node.js and TypeScript ORM
+- ▲ Next.js - React framework for production-grade applications
+- 🤖 Android - Mobile app development platform
+- 📱 iOS - Apple's mobile operating system development
+- 🌉 JSBridge - Native and JavaScript communication bridge
 
 
 ## Technologies
-🐙 Git - Distributed version control system
-📊 GitLab - DevOps lifecycle platform
-📦 Webpack - Static module bundler
-⚡️ Rspack - Fast Rust-based web bundler
-⚡ Vite - Next generation frontend tooling
-💻 VSCode - Code editing redefined
-🖱️ Cursor - AI-first code editor
-🍎 macOS - Apple's desktop operating system
-🪟 Windows - Microsoft's operating system
-✅ Vitest - Next generation testing framework
-🎭 Playwright - Reliable end-to-end testing
-🦁 NestJS - Progressive Node.js framework
+
+- 🐙 Git - Distributed version control system
+- 📊 GitLab - DevOps lifecycle platform
+- 📦 Webpack - Static module bundler
+- ⚡️ Rspack - Fast Rust-based web bundler
+- ⚡ Vite - Next generation frontend tooling
+- 💻 VSCode - Code editing redefined
+- 🖱️ Cursor - AI-first code editor
+- 🍎 macOS - Apple's desktop operating system
+- 🪟 Windows - Microsoft's operating system
+- ✅ Vitest - Next generation testing framework
+- 🎭 Playwright - Reliable end-to-end testing
+- 🦁 NestJS - Progressive Node.js framework
 
 
 <!-- ## Useful links -->
